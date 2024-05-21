@@ -1,0 +1,8 @@
+{
+  "name": "@mailchimp/wink",
+  "targets": {
+    "echo": {
+      "command": "echo test"
+    }
+  }
+}

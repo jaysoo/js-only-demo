@@ -1,0 +1,8 @@
+{
+  "name": "@mailchimp/experts",
+  "targets": {
+    "echo": {
+      "command": "echo test"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "strict": false,
+    "skipLibCheck": true,
+    "paths": {
+      "@mailchimp/experts": ["web/js/src/Main/Experts/src/index.js"],
+      "@mailchimp/wink": ["web/js/src/Main/Wink/src/index.js"]
+    }
+  }
+}
